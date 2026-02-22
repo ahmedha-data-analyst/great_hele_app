@@ -306,7 +306,7 @@ st.markdown(
     f"""
     <div class="hero-banner">
         <div class="hero-copy">
-            <h1 class="hero-title">Great Hele Flow &amp; Pressure Explorer</h1>
+            <h1 class="hero-title">Great Hele Flow &amp; Pressure</h1>
             <p class="hero-subtitle">HydroStar x Wales &amp; West Utilities</p>
         </div>
         <div class="hero-logos">
